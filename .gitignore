@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+package-lock.json
+
+# Python environment
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Output folders (generated images)
+output/
+output-originals/
+output/no-bg/
+output/no-bg-final/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
